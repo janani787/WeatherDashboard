@@ -1,0 +1,9 @@
+#weatherCard
+{
+    display: flex;
+}
+
+h1
+{
+    background-color: rgb(22, 22, 226);
+}
